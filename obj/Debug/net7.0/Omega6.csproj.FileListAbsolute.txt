@@ -1,0 +1,185 @@
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Omega6.exe
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Omega6.deps.json
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Omega6.runtimeconfig.json
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Omega6.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Omega6.pdb
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.AssemblyReference.cache
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\Omega6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfoInputs.cache
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfo.cs
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CoreCompileInputs.cache
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\Omega6.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\refint\Omega6.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\Omega6.pdb
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\Omega6.genruntimeconfig.cache
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\ref\Omega6.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\ConcurrentCollections.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.CommandsNext.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.Interactivity.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CopyComplete
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\DnsClient.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\Snappier.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\dalla\Desktop\VS Programs\Omega6\Omega6\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.exe
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\ConcurrentCollections.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\DnsClient.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.CommandsNext.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.Interactivity.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Snappier.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfo.cs
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CopyComplete
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\refint\Omega6.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.pdb
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.deps.json
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.runtimeconfig.json
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.dll
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.pdb
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.genruntimeconfig.cache
+C:\Users\User\Desktop\Omega6\Omega6\Omega6\obj\Debug\net7.0\ref\Omega6.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.exe
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.deps.json
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.runtimeconfig.json
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Omega6.pdb
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\ConcurrentCollections.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\DnsClient.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.CommandsNext.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.Interactivity.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\Snappier.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.AssemblyReference.cache
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfoInputs.cache
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfo.cs
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CoreCompileInputs.cache
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CopyComplete
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\refint\Omega6.dll
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.pdb
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\Omega6.genruntimeconfig.cache
+C:\Users\dalla\Desktop\Omega6\Omega6\Omega6\Omega6\obj\Debug\net7.0\ref\Omega6.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Omega6.exe
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Omega6.deps.json
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Omega6.runtimeconfig.json
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Omega6.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Omega6.pdb
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\ConcurrentCollections.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\DnsClient.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.CommandsNext.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.Interactivity.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\Snappier.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\User\Desktop\Omega6\Omega6\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\Omega6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfo.cs
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CopyComplete
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\Omega6.dll
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\refint\Omega6.dll
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\Omega6.pdb
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\Omega6.genruntimeconfig.cache
+C:\Users\User\Desktop\Omega6\Omega6\obj\Debug\net7.0\ref\Omega6.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Omega6.exe
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Omega6.deps.json
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Omega6.runtimeconfig.json
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Omega6.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Omega6.pdb
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\ConcurrentCollections.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\DnsClient.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.CommandsNext.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\DSharpPlus.Interactivity.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\Snappier.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\Omega6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\Omega6.AssemblyInfo.cs
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\Omega6.csproj.CopyComplete
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\Omega6.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\refint\Omega6.dll
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\Omega6.pdb
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\Omega6.genruntimeconfig.cache
+C:\Users\User\Desktop\Omega6V8\Omega6\Omega6\obj\Debug\net7.0\ref\Omega6.dll

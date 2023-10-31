@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Omega6.Classes.Exceptions
+{
+    public class UserNotInQueueException : Exception
+    {
+        public UserNotInQueueException() { }
+        public UserNotInQueueException(string message) : base(message) { }
+
+    }
+}
